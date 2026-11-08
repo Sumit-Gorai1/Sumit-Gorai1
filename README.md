@@ -4,7 +4,7 @@
 Hi, I'm Sumit Gorai 👋
 __________________________________________________________________________________________________________________________________________
 
-I’m a PGDM Finance student working on financial markets, equity research, derivatives, and AI-powered investment tools. I enjoy combining finance, technology, and data to make market research more structured, practical, and accessible.
+I’m a PGDM Finance student working on financial markets, Auditing, derivatives, and AI-powered investment tools. I enjoy combining finance, technology, and some parts of Auditing data to make market research more structured, practical, and accessible.
 Today I work at the intersection of GenAI, and scientific computing, turning messy real-world data into models, tools, and automated workflows.
 
 🔭 What I’m working on
