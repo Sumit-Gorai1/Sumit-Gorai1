@@ -11,6 +11,7 @@ Today I work at the intersection of GenAI, and scientific computing, turning mes
 __________________________________________________________________________________________________________________________________________
 
 + FinAgent: An AI-powered multi-agent platform for Indian equity research and portfolio intelligence.
++ JoLT: An AI-Powered Indian Equity Market News Intelligence Platform and market intelligence.
 + Equity & derivatives research: Exploring option-chain analysis, market sentiment, risk management, and investment research.
 + AI for finance: Building tools that combine fundamental analysis, technical indicators, market news, risk checks, and portfolio    insights.
 + Agentic coding & automation: hands-on with Claude Code to automate document processing, data extraction, RAG Pipeines and dev workflows 
@@ -18,7 +19,7 @@ ________________________________________________________________________________
 📈 Featured Project
 __________________________________________________________________________________________________________________________________________
 
-[FinAgent — AI-Powered Equity Research Platform](https://github.com/Sumit-Gorai1/FinAgent)
+[FinAgent-AI-Powered Equity Research Platform](https://github.com/Sumit-Gorai1/FinAgent)
 
 FinAgent is a full-stack financial research and portfolio-intelligence platform designed for Indian equity markets. It brings together multiple AI agents to support:
 
@@ -28,6 +29,18 @@ FinAgent is a full-stack financial research and portfolio-intelligence platform 
 - Risk and drawdown assessment
 - Portfolio tracking and rebalancing
 - Paper trading and backtesting
+  
+📈 Featured Project
+__________________________________________________________________________________________________________________________________________
+
+[JoLT-AI-Powered Indian Equity Market News Intelligence Platform](https://github.com/Sumit-Gorai1/JoLT-)
+
+JoLT is a full-stack Indian equity market intelligence and causal analysis platform designed for NSE and BSE markets. It uses a collaborative 10-agent AI architecture to analyze market developments and provide structured investment decision support through:
+
+- Fundamental, Technical analysis and sentiment analysis
+- Market-news intelligence
+- Macroeconomic and geopolitical impact assessment
+- Risk analysis and investment insights
 
 🛠️ Tech I Work With
 __________________________________________________________________________________________________________________________________________
