@@ -4,7 +4,7 @@
 Hi, I'm Sumit Gorai 👋
 __________________________________________________________________________________________________________________________________________
 
-I’m a PGDM Finance student working on financial markets, Auditing, derivatives, and AI-powered investment tools. I enjoy combining finance, technology, and some parts of Auditing data to make market research more structured, practical, and accessible.
+I’m a Finance student working on financial markets, Auditing, derivatives, and AI-powered investment tools. I enjoy combining finance, technology, and some parts of Auditing data to make market research more structured, practical, and accessible.
 Today I work at the intersection of GenAI, and scientific computing, turning messy real-world data into models, tools, and automated workflows.
 
 🔭 What I’m working on
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 [JoLT-AI-Powered Indian Equity Market News Intelligence Platform](https://github.com/Sumit-Gorai1/JoLT-)
 
-JoLT is a full-stack Indian equity market intelligence and causal analysis platform designed for NSE and BSE markets. It uses a collaborative 10-agent AI architecture to analyze market developments and provide structured investment decision support through:
+JoLT is an AI-powered news intelligence platform that analyses financial and geopolitical developments, identifies their potential impact on companies, sectors and markets, and evaluates the overall sentiment to help users understand the bigger picture.
 
 - Fundamental, Technical analysis and sentiment analysis
 - Market-news intelligence
